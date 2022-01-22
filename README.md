@@ -48,4 +48,4 @@
 
 ![status](https://dev.discordprofiles.me/badge/status/863005681950785546?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/863005681950785546)
-![spotify](https://dev.discordprofiles.me/badge/spotify/863005681950785546)](https://dev.discordprofiles.me/openspotify/863005681950785546)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/863005681950785546)](https://dev.discordprofiles.me/openspotify/863005681950785546)
