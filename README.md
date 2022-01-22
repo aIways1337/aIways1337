@@ -46,6 +46,6 @@
 
 
 
-![status](https://dev.discordprofiles.me/badge/status/kj9hnuk9zegqwpcrqd2u05v69?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/kj9hnuk9zegqwpcrqd2u05v69)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/kj9hnuk9zegqwpcrqd2u05v69)](https://dev.discordprofiles.me/openspotify/kj9hnuk9zegqwpcrqd2u05v69)
+![status](https://dev.discordprofiles.me/badge/status/863005681950785546?simple=true)
+![playing](https://dev.discordprofiles.me/badge/playing/863005681950785546)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/863005681950785546)](https://dev.discordprofiles.me/openspotify/863005681950785546)
