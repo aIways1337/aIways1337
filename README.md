@@ -30,7 +30,7 @@
 <br>
 
 
-<a href="https://github.com/thenorthwood1337">
+<a href="https://github.com/aIways1337">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thenorthwood1337&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
 </a>
 <br>
