@@ -15,6 +15,9 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <a href="https://open.spotify.com/user/kj9hnuk9zegqwpcrqd2u05v69">
   <img align="left" alt="Spotify" width="31px" src="https://github.com/aIways1337/aIways1337/blob/main/assets/spotify.svg" />
 </a>
+<a href="https://vk.com/always1337">
+  <img align="left" alt="VK" width="31px" src="https://github.com/aIways1337/aIways1337/blob/main/assets/vk.png" />
+</a>
 <a href="https://t.me/always1337">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/aIways1337/aIways1337/main/assets/telegram.svg" />
 </a>
