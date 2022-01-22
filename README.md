@@ -34,13 +34,3 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thenorthwood1337&show_icons=true&count_private=true&theme=blueberry&hide_border=true">
 </a>
 <br>
-<a href="https://wakatime.com/@thenorthwood1337">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thenorthwood1337&show_icons=true&hide_border=true&theme=blueberry&layout=compact">
-</a>  
-
-
-
-
-![status](https://dev.discordprofiles.me/badge/status/863005681950785546?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/863005681950785546)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/863005681950785546)](https://dev.discordprofiles.me/openspotify/863005681950785546)
