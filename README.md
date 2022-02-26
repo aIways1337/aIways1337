@@ -24,9 +24,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <a href="mailto:thenorthwoodcommercial@gmail.com">
   <img align="left" alt="mailYa" width="31px" src="https://raw.githubusercontent.com/aIways1337/aIways1337/main/assets/email.svg" />
 </a>
-<a href="always#1337">
-  <img align="left" alt="Discord" width="31px" src="https://raw.githubusercontent.com/aIways1337/aIways1337/main/assets/discord.svg" />
-</a>
 
 <br>
 <br>
